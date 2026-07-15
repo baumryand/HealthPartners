@@ -9,7 +9,7 @@ For production usage consider additional error handling, logging, configuration,
 
 Prints basic information during run.  For instance:
 
-Found 73 Hospital datasets
-Downloading 25 new or updated Hospital datasets
-24 datasets downloaded
-1 datasets failed. Check log for details.
+Found 73 Hospital datasets  
+Downloading 25 new or updated Hospital datasets  
+24 datasets downloaded  
+1 datasets failed. Check log for details.  
